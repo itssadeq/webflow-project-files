@@ -1,0 +1,12 @@
+.nav-link {
+    font-size: 16px;
+    opacity: 0.6;
+    transition: opacity 0.3s, font-size 0.3s;
+}
+
+.nav-link.active {
+    opacity: 1;
+    font-size: 18px;
+}
+
+/* Other styles for sections, animations, etc. */
